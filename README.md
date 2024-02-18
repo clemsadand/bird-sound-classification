@@ -1,10 +1,10 @@
-# Description
+## Description
 This repository is used contains some bird sound recorded in Intaka Island.
 
-# Purpose
+## Purpose
 The purpose of this recording is to classify bird sounds using deep learning algorithm
 
-# Organization
+## Organization
 Annotations/ : contains annotation associated to each audio files. It's create using Sonic Visualizer
 
 Audio/ : contains audio files recorded 
