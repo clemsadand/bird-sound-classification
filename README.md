@@ -18,8 +18,6 @@ Model_Output/
 Pickled_Data
 Saved_Data/ 
 
-
-
 Data
 ├── Annotations
 │   ├── 030224-083220.svl
