@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sonic-visualiser>
+<sv>
+  <data>
+    <model id="10" name="" sampleRate="44100" start="21504" end="1097728" type="sparse" dimensions="2" resolution="1" notifyOnAdd="true" dataset="9" subtype="box" minimum="595.212" maximum="7142.08" units="Hz" />
+    <dataset id="9" dimensions="2">
+      <point frame="21504" value="1857.26" duration="1076224" extent="4653.8" label="1" />
+    </dataset>
+  </data>
+  <display>
+    <layer id="11" type="boxes" name="Boxes" model="10"  verticalScale="0"  colourName="White" colour="#ffffff" darkBackground="true" />
+  </display>
+</sv>
