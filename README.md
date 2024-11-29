@@ -1,25 +1,26 @@
-## Description
-This repository is used contains some bird sound recorded at [Intaka Island](https://intaka.co.za/) (South Africa).
+# Bird Sound Classifications
 
-## Purpose
-The purpose of this recording is to classify bird sounds using deep learning algorithm.
+We built implement two deep learning approaches to classify bird sounds. We used our own dataset consisting of bird sound recorded at [Intaka Island](https://intaka.co.za/) (South Africa).
 
 ## Organization
-Annotations/ : contains annotation associated to each audio files. It's create using Sonic Visualizer
 
-Audio/ : contains audio files recorded 
+This repository contains our dataset, a notebook and a report. The the data is located in the folder Data and is structures as follows.
 
-DataFiles/ : contains two files, TrainingFiles.txt is used to set the files reserved to train model
-and TestingFiles/txt is used to set the files reserved to testing model.
+- `Annotations/` : contains annotation associated to each audio files. It's create using Sonic Visualizer
+
+- `Audio/` : contains audio files recorded 
+
+- `DataFiles/` : contains two files, `TrainingFiles.txt` is used to set the files reserved to train model
+and `TestingFiles.txt` is used to set the files reserved to testing model.
 
 
-The last folders is left empty to a preprocessing used and to save object instances as their name suggests.
+The last folders is left empty for post-processing usage and saving object instances as their name suggests.
 
-Model_Output/
+- `Model_Output/`
 
-Pickled_Data
+- `Pickled_Data/`
 
-Saved_Data/ 
+- `Saved_Data/`
 
 
 
